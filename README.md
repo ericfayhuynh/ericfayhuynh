@@ -5,7 +5,7 @@ Welcome to my portfolio! Here, I am excited to showcase the skills and knowledge
 
 A little about me: My name is Eric, and I currently reside in the greater Los Angeles area. I am making a career change from biology to pursue my passion for data science and biostatistics. Currently enrolled in the University of Berkeley Data Analytics Bootcamp, I am eager to explore the many opportunities and challenges that the data field has to offer. I view data analytics as a perfect stepping stone into a fulfilling career, where I can foster a learning culture, encourage optimization, and continuously upskill.
 
-Feel free to explore my projects and learn how data analysis can provide valuable insights and drive informed decision-making. Let's embark on this data-driven adventure together!
+Feel free to explore my GitHub portfolio! I am excited to showcase the skills I have acquired and the projects I have diligently worked on.
 
 ## 📁Overview
 Languages/Data Tools I am familiar with:
