@@ -14,7 +14,7 @@ Languages/Data Tools I am familiar with:
    * VBA (**V**isual **B**asic for **A**pplication)
 * Python
    * Pandas
-   * API keys (**A**pplication **P**rogramming **I**nterface keys)
+   * API keys (**A**pplication **P**rogramming **I**nterface)
    * Matplotlib
    * SQLalchemy
    * SQLite3
