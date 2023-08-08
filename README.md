@@ -1,6 +1,7 @@
-### Hi👋, My name is Eric, and welcome to my GitHub portfolio!
+### Hi!👋 Welcome to my GitHub portfolio!
 --------------------------------------------------------------------------------------------------------------------------
-I am currently making a career change from biology and pivoting into the data field. I am currently enrolled at the University of Berkeley Data Analytics Bootcamp. I am excited to learn the many different tools the data field has to offer such as SQL, Python, R, and many more. I view data analytics as a perfect stepping stone into a career encompassing data science and biostatistics.
+  I am currently making a career change from biology and pivoting into the data field. I am currently enrolled at the University of Berkeley Data Analytics Bootcamp. I am excited to learn the many different tools the data field has to offer such as SQL, Python, R, and many more. I view data analytics as a perfect stepping stone into a career encompassing data science and biostatistics.
+
 
 
 
