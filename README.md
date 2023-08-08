@@ -7,22 +7,22 @@ If you haven't figured it out by now, my name's Eric. I currently reside in the 
 
 ## 📁Overview
 Languages/Data Tools I am familiar with:
-1. Excel
+* Excel
    * Spreadsheet
    * PivotTable
    * Power Pivot
    * VBA (Visual Basic for Application)
-1. Python
+* Python
    * Pandas
    * API keys (Application Programming Interface keys)
    * Matplotlib
    * SQLalchemy
    * SQLite3
-1. SQL
+* SQL
    * MySQL
    * PostgreSQL
    * Microsoft SQL Server
-1. Web Development
+* Web Development
    * HTML (Hypertext Markup Language)
    * CSS (Cascading Style Sheets)
    * JavaScript (working on it)
