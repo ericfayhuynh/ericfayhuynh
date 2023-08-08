@@ -1,7 +1,11 @@
 ### 🤗Welcome to my GitHub portfolio!
 
 ## 🙋‍♂️About
-My name is Eric, and I live in the greater Los Angeles area. I am transitioning from a background in biology to pursue a career in the data field. Currently, I am enrolled in the University of Berkeley Data Analytics Bootcamp, where I am eager to learn various tools like SQL, Python, and R. I see data analytics as a stepping stone towards a career in data science and biostatistics. My ideal career environment would prioritize upskilling, optimization, and fostering a culture of continuous learning.
+Welcome to my portfolio! Here, I am excited to showcase the skills and knowledge I have acquired so far in the data field, with a lot more to come. As a passionate learner, I have delved into various tools like SQL, Python, and R, which have enabled me to work on intriguing data projects. This portfolio serves as a testament to my journey in data analytics and the application of these tools to real-world scenarios.
+
+A little about me: My name is Eric, and I currently reside in the greater Los Angeles area. I am making a career change from biology to pursue my passion for data science and biostatistics. Currently enrolled in the University of Berkeley Data Analytics Bootcamp, I am eager to explore the many opportunities and challenges that the data field has to offer. I view data analytics as a perfect stepping stone into a fulfilling career, where I can foster a learning culture, encourage optimization, and continuously upskill.
+
+Feel free to explore my projects and learn how data analysis can provide valuable insights and drive informed decision-making. Let's embark on this data-driven adventure together!
 
 ## 📁Overview
 Languages/Data Tools I am familiar with:
