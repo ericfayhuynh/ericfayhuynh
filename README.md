@@ -11,10 +11,10 @@ Languages/Data Tools I am familiar with:
    * Spreadsheet
    * PivotTable
    * Power Pivot
-   * VBA (Visual Basic for Application)
+   * VBA (__V__isual __B__asic for __A__pplication)
 * Python
    * Pandas
-   * API keys (Application Programming Interface keys)
+   * API keys (__A__pplication __P__rogramming __I__nterface keys)
    * Matplotlib
    * SQLalchemy
    * SQLite3
