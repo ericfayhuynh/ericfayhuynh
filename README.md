@@ -11,18 +11,18 @@ Languages/Data Tools I am familiar with:
    * Spreadsheet
    * PivotTable
    * Power Pivot
-   * VBA (**V**isual __B__asic for __A__pplication)
+   * VBA (**V**isual **B**asic for **A**pplication)
 * Python
    * Pandas
-   * API keys (__A__pplication __P__rogramming __I__nterface keys)
+   * API keys (**A**pplication **P**rogramming **I**nterface keys)
    * Matplotlib
    * SQLalchemy
    * SQLite3
-* SQL (Structured Query Language)
+* SQL (**S**tructured **Q**uery **L**anguage)
    * MySQL
    * PostgreSQL
    * Microsoft SQL Server
 * Web Development
-   * HTML (Hypertext Markup Language)
-   * CSS (Cascading Style Sheets)
+   * HTML (**H**ypertext **M**arkup **L**anguage)
+   * CSS (**C**ascading **S**tyle **S**heets)
    * JavaScript (working on it)
