@@ -18,7 +18,7 @@ Languages/Data Tools I am familiar with:
    * Matplotlib
    * SQLalchemy
    * SQLite3
-* SQL
+* SQL (Structured Query Language)
    * MySQL
    * PostgreSQL
    * Microsoft SQL Server
