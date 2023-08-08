@@ -8,6 +8,8 @@ Languages/Data Tools I am familiar with:
 1. Excel
    * Spreadsheet
    * VBA (Visual Basic for Application)
+   * PivotTable
+   * Power Pivot
 1. Python
    * Pandas
    * API keys (Application Programming Interface keys)
