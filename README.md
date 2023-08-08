@@ -1,4 +1,5 @@
-### 👋👋Hi, Welcome to my GitHub portfolio! I'm Eric
+### Hi👋, My name is Eric, and welcome to my GitHub portfolio!
+--------------------------------------------------------------------------------------------------------------------------
 
 <!--
 **ericfayhuynh/ericfayhuynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
