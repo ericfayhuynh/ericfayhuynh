@@ -11,7 +11,7 @@ Languages/Data Tools I am familiar with:
    * Spreadsheet
    * PivotTable
    * Power Pivot
-   * VBA (__V__isual __B__asic for __A__pplication)
+   * VBA (**V**isual __B__asic for __A__pplication)
 * Python
    * Pandas
    * API keys (__A__pplication __P__rogramming __I__nterface keys)
