@@ -6,6 +6,7 @@ If you haven't figured it out by now, my name's Eric. I'm from  I am currently m
 ## Portfolio Summary
 List of data tools and languages I have been exposed to:
 1. Excel
+   * Spreadsheet
    * VBA (Visual Basic for Application)
 1. Python
    * Pandas
