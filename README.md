@@ -23,6 +23,6 @@ Languages/Data Tools I am familiar with:
    * PostgreSQL
    * Microsoft SQL Server
 * Web Development
-   * HTML (**H**ypertext **M**arkup **L**anguage)
+   * HTML (**H**yper**t**ext **M**arkup **L**anguage)
    * CSS (**C**ascading **S**tyle **S**heets)
    * JavaScript (working on it)
