@@ -6,17 +6,17 @@ If you haven't figured it out by now, my name's Eric. I'm from  I am currently m
 ## Portfolio Summary
 List of data tools and languages I have been exposed to:
 1. Excel
-   a. VBA (Visual Basic for Application)
-2. Python
-   a. Pandas
-   b. API keys (Application Programming Interface keys)
-   c. Matplotlib
-   d. SQLalchemy
-   e. SQLite3
-3. SQL
-   a. MySQL
-   b. PostgreSQL
-   c. Microsoft SQL Server
+   * VBA (Visual Basic for Application)
+1. Python
+   * Pandas
+   * API keys (Application Programming Interface keys)
+   * Matplotlib
+   * SQLalchemy
+   * SQLite3
+1. SQL
+   * MySQL
+   * PostgreSQL
+   * Microsoft SQL Server
 
    
 
