@@ -20,6 +20,11 @@ Languages/Data Tools I am familiar with:
    * MySQL
    * PostgreSQL
    * Microsoft SQL Server
+     
+1. Web Development
+   * HTML (Hypertext Markup Language)
+   * CSS (Cascading Style Sheets)
+   * JavaScript (working on it)
 
    
 
