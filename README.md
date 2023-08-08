@@ -9,9 +9,9 @@ If you haven't figured it out by now, my name's Eric. I currently reside in the 
 Languages/Data Tools I am familiar with:
 1. Excel
    * Spreadsheet
-   * VBA (Visual Basic for Application)
    * PivotTable
    * Power Pivot
+   * VBA (Visual Basic for Application)
 1. Python
    * Pandas
    * API keys (Application Programming Interface keys)
