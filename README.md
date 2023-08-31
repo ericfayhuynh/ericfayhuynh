@@ -1,4 +1,4 @@
-### 🤗Welcome to my GitHub portfolio!
+### 🤗Welcome to my GitHub Portfolio!
 
 ## 🙋‍♂️About
 Welcome to my portfolio! Here, I am excited to showcase the skills and knowledge I have acquired so far in the data field, with a lot more to come. As a passionate learner, I have delved into various tools like SQL, Python, and R, which have enabled me to work on intriguing data projects. This portfolio serves as a testament to my journey in data analytics and the application of these tools to real-world scenarios.
