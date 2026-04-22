@@ -34,7 +34,7 @@ Still figuring out exactly what I like most, but I’ve been leaning more toward
 - Tools
   - DBeaver  
   - MySQL CLI  
-  - Excel (less and less now)  
+  - Excel 
   - Git  
 
 ---
